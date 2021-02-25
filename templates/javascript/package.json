@@ -1,0 +1,16 @@
+{
+    "name": "js-template",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/bot.js",
+    "scripts": {
+        "start": "node ."
+    },
+    "keywords": [],
+    "author": "Pixelwarp",
+    "license": "MIT",
+    "dependencies": {
+        "esm": "^3.2.25",
+        "discord.js": "^12.5.1"
+    }
+}
